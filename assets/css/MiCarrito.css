@@ -1,0 +1,10 @@
+.centrar {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;
+    font-size: 40px;
+}
+
+.paddings {
+    background-color: #fafafa;
+}
